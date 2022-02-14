@@ -1,4 +1,4 @@
-# class_projects
+# 50 Class Projects
 50 Projects for 50 days from Udemy
 
 2 of these projects are duplicates that have already been uploaded. 
