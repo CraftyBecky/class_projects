@@ -8,3 +8,4 @@ Completed and pushed
 2. Progress Steps
 3. Rotating Navigation
 4. Hidden Seach Widget
+5. Split Landing Pages
