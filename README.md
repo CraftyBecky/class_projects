@@ -10,3 +10,4 @@ Completed and pushed
 4. Hidden Seach Widget
 5. Blurry Loading
 6. Split Landing Pages
+7. Wave Form Animation
