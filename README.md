@@ -11,3 +11,4 @@ Completed and pushed
 5. Blurry Loading
 6. Split Landing Pages
 7. Wave Form Animation
+8. Github Profile Cards
