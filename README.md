@@ -9,8 +9,9 @@ Completed and pushed
 3. Rotating Navigation
 4. Hidden Seach Widget
 5. Blurry Loading
-6. Split Landing Pages
-7. Wave Form Animation
-8. Sound Board
-9. Dad Jokes
+//6. Scroll Animation - To Come//
+7. Split Landing Pages
+8. Wave Form Animation
+9. Sound Board
+10. Dad Jokes
 
