@@ -9,9 +9,14 @@ Completed and pushed
 3. Rotating Navigation
 4. Hidden Seach Widget
 5. Blurry Loading
-//6. Scroll Animation - To Come//
+6. Scroll Animation - Need to fix bug
 7. Split Landing Pages
-8. Wave Form Animation
+8. Form Wave Animation
 9. Sound Board
 10. Dad Jokes
+11. Event KeyCodes
+12. FAQ Collapse
+13. Random Choice Picker
+
+
 
