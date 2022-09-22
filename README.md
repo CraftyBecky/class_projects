@@ -9,7 +9,7 @@ Completed and pushed
 3. Rotating Navigation
 4. Hidden Seach Widget
 5. Blurry Loading
-6. Scroll Animation - Need to fix bug
+6. Scroll Animation 
 7. Split Landing Pages
 8. Form Wave Animation
 9. Sound Board
