@@ -17,8 +17,7 @@ Completed and pushed
 11. Event KeyCodes
 12. FAQ Collapse
 13. Random Choice Picker
-14. Navigation Animation
-Bugs to fix on navaigation animation 
+14. Navigation Animation - Bugs to fix on navaigation animation 
 15. Increment Counter
 
 
